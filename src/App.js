@@ -12,7 +12,7 @@ function App() {
         <Post></Post>
         <Post></Post>
       </div>
-      <div>
+      <div className="button-group">
         <Button></Button>
         <Button></Button>
         <Button></Button>
